@@ -1,0 +1,79 @@
+# github.com/Masterminds/semver/v3 v3.1.1
+github.com/Masterminds/semver/v3
+# github.com/aws/constructs-go/constructs/v10 v10.1.120
+## explicit
+github.com/aws/constructs-go/constructs/v10
+github.com/aws/constructs-go/constructs/v10/jsii
+# github.com/aws/jsii-runtime-go v1.69.0
+## explicit
+github.com/aws/jsii-runtime-go
+github.com/aws/jsii-runtime-go/internal/api
+github.com/aws/jsii-runtime-go/internal/compiler
+github.com/aws/jsii-runtime-go/internal/embedded
+github.com/aws/jsii-runtime-go/internal/kernel
+github.com/aws/jsii-runtime-go/internal/kernel/process
+github.com/aws/jsii-runtime-go/internal/objectstore
+github.com/aws/jsii-runtime-go/internal/typeregistry
+github.com/aws/jsii-runtime-go/runtime
+# github.com/hashicorp/cdktf-provider-aws-go/aws/v9 v9.0.52
+## explicit
+github.com/hashicorp/cdktf-provider-aws-go/aws/v9
+github.com/hashicorp/cdktf-provider-aws-go/aws/v9/ec2
+github.com/hashicorp/cdktf-provider-aws-go/aws/v9/ec2/internal
+github.com/hashicorp/cdktf-provider-aws-go/aws/v9/internal
+github.com/hashicorp/cdktf-provider-aws-go/aws/v9/jsii
+# github.com/hashicorp/terraform-cdk-go/cdktf v0.12.3
+## explicit
+github.com/hashicorp/terraform-cdk-go/cdktf
+github.com/hashicorp/terraform-cdk-go/cdktf/internal
+github.com/hashicorp/terraform-cdk-go/cdktf/jsii
+# github.com/mattn/go-isatty v0.0.16
+github.com/mattn/go-isatty
+# github.com/yuin/goldmark v1.4.13
+github.com/yuin/goldmark
+github.com/yuin/goldmark/ast
+github.com/yuin/goldmark/parser
+github.com/yuin/goldmark/renderer
+github.com/yuin/goldmark/renderer/html
+github.com/yuin/goldmark/text
+github.com/yuin/goldmark/util
+# golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
+golang.org/x/lint
+golang.org/x/lint/golint
+# golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
+golang.org/x/mod/internal/lazyregexp
+golang.org/x/mod/module
+golang.org/x/mod/semver
+# golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+golang.org/x/net/context/ctxhttp
+# golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab
+golang.org/x/sys/execabs
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# golang.org/x/tools v0.1.12
+golang.org/x/tools/cmd/godoc
+golang.org/x/tools/cmd/goimports
+golang.org/x/tools/go/ast/astutil
+golang.org/x/tools/go/gcexportdata
+golang.org/x/tools/go/internal/gcimporter
+golang.org/x/tools/go/internal/pkgbits
+golang.org/x/tools/godoc
+golang.org/x/tools/godoc/analysis
+golang.org/x/tools/godoc/redirect
+golang.org/x/tools/godoc/static
+golang.org/x/tools/godoc/util
+golang.org/x/tools/godoc/vfs
+golang.org/x/tools/godoc/vfs/gatefs
+golang.org/x/tools/godoc/vfs/httpfs
+golang.org/x/tools/godoc/vfs/mapfs
+golang.org/x/tools/godoc/vfs/zipfs
+golang.org/x/tools/internal/event
+golang.org/x/tools/internal/event/core
+golang.org/x/tools/internal/event/keys
+golang.org/x/tools/internal/event/label
+golang.org/x/tools/internal/fastwalk
+golang.org/x/tools/internal/gocommand
+golang.org/x/tools/internal/gopathwalk
+golang.org/x/tools/internal/imports
+golang.org/x/tools/internal/typeparams
+golang.org/x/tools/playground
